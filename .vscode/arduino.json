@@ -2,5 +2,5 @@
     "board": "arduino:avr:uno",
     "programmer": "arduino:avrispmkii",
     "port": "COM4",
-    "sketch": "toggle_led_2Button\\toggle_led_2Button.ino"
+    "sketch": "2button_LED\\2button_LED.ino"
 }
