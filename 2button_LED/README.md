@@ -1,4 +1,5 @@
-# control an LED with 2 push button switches
+## ควบคุมหลอดไฟ LED โดยใช้สวิตซ์แบบกดติดปล่อยดับ (push button)
+โดยใช้ สวิตซ์ 2 ตัว ตัวแรกใช้เปิด ตัวที่สองใช้ปิด พร้อมกับมีเสียงเมื่อกดปุ่ม
 
 
-### Wiring Diagram
+## Wiring Diagram
